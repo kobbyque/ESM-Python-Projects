@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kobby Sarfo
 - 👀 I’m interested in Web design and programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML,CSS, JavaScript
 - 💞️ I’m looking to collaborate on web design and programming works
 - 📫 How to reach me sarfo419@proton.me
 - 😄 Pronouns: he/him
